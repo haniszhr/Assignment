@@ -1,2 +1,2 @@
-# Assignment
-This is all of my coding that I have done for my assignment
+# Web-based System Project
+This is all of my coding that I have done for my project in subject web-based application. This project named as EZPrint where it is mainly to ease the process at printing store. As we all know, printing store does not have a system where customer can send the document that they want to print which cause customer to wait at the store until their document finish being printed. This is inconvenient to some people especially in pandemic era where the store may be too crowded. Therefore, through this system, customer can send the document and staff can download and print it. Once finished, staff will update the status to ready to pickup. Customer will only need to pickup the document and no need to wait for a long time.
